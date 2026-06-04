@@ -1,0 +1,9 @@
+{
+  "isBannerAdEnabled": false,
+  "isInterstitialAdEnabled": true,
+  "isRewardAdEnabled": true,
+  "canShowAds": true,
+  "isInterstitialOrRewardType": 1,
+  "minTimeBetweenInterstitialAds": 10,
+  "minActionsBeforeInterstitial": 5
+}
