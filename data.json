@@ -2,7 +2,7 @@
     {
         "id": "1",
         "image": "https://upload.meeshosupplyassets.com/cataloging/1780386644248/1.jpg",
-        "is_lock": false
+        "is_lock": true
     },
     {
         "id": "2",
@@ -27,7 +27,7 @@
     {
         "id": "6",
         "image": "https://upload.meeshosupplyassets.com/cataloging/1780471644787/6.jpg",
-        "is_lock": false
+        "is_lock": true
     },
     {
         "id": "7",
