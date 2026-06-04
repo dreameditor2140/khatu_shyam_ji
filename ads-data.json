@@ -4,6 +4,6 @@
   "isRewardAdEnabled": true,
   "canShowAds": true,
   "isInterstitialOrRewardType": 1,
-  "minTimeBetweenInterstitialAds": 10,
+  "minTimeBetweenInterstitialAds": 30,
   "minActionsBeforeInterstitial": 5
 }
