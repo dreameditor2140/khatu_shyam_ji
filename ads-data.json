@@ -2,7 +2,7 @@
   "isBannerAdEnabled": true,
   "isInterstitialAdEnabled": true,
   "isRewardAdEnabled": true,
-  "canShowAds": false,
+  "canShowAds": true,
   "isInterstitialOrRewardType": 1,
   "minTimeBetweenInterstitialAds": 30,
   "minActionsBeforeInterstitial": 5
